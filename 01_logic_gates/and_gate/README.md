@@ -4,10 +4,10 @@
   <!-- Row 1: The Images (Centred Vertically) -->
   <tr valign="middle">
     <td align="center" width="50%">
-      <img src="and_gate/and_gate_schematic.png" alt="AND Gate Schematic" width="100%">
+      <img src="./and_gate_schematic.png" alt="AND Gate Schematic" width="100%">
     </td>
     <td align="center" width="50%">
-      <img src="and_gate/and_gate_circuit.jpeg" alt="AND Gate Circuit" width="100%">
+      <img src="./and_gate_circuit.jpeg" alt="AND Gate Circuit" width="100%">
     </td>
   </tr>
   <!-- Row 2: The Captions (Locked in Horizontal Alignment) -->
